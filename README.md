@@ -1,6 +1,8 @@
 # ¡Hola! Soy Marlon Pecho 👋
 
-Un apasionado **Desarrollar Full Stack** y estudiante de los últimos ciclos de **Ingeniería de Sistemas**. Me enfoco en el diseño y construcción de soluciones tecnológicas escalables, eficientes y orientadas a transformar la operación comercial de pequeñas y medianas empresas mediante arquitectura SaaS.
+## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Ingeniero+de+Sistemas;Creador+de+Soluciones+SaaS" alt="Typing Effect" /></a>
+
+Un apasionado desarrollador backend y frontend enfocado en el diseño y construcción de soluciones tecnológicas escalables, eficientes y orientadas a transformar la operación comercial de pequeñas y medianas empresas mediante arquitectura SaaS.
 
 - 🚀 **Proyecto Principal:** Creador y Core Developer de **Ventify**, un ecosistema SaaS integrado de punto de venta (POS) y e-commerce.
 - 🛠️ **Especialidad Técnica:** Desarrollo MERN stack, arquitectura de APIs seguras (JWT), gestión de entornos cloud y optimización de bases de datos relacionales y no relacionales.
@@ -11,6 +13,7 @@ Un apasionado **Desarrollar Full Stack** y estudiante de los últimos ciclos de 
 ### 💻 Tecnologías y Herramientas
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,php,mongodb,mysql,supabase,git,github,vercel,postman" alt="My Tech Stack" />
+
 ---
 
 ### 🛠️ Ecosistema en Desarrollo Activo
@@ -19,6 +22,7 @@ Un apasionado **Desarrollar Full Stack** y estudiante de los últimos ciclos de 
 * **Soluciones a Medida (Entre Hilos / ¡Qué Bravazo! / Decoraciones Kawaii):** Plataformas e-commerce full-stack distribuidas que consumen el core de Ventify de manera centralizada, automatizando el control de stock y la gestión de pedidos de múltiples marcas comerciales.
 
 ---
+
 ### 📫 Conéctate conmigo
 
 Apunto a seguir creando software con impacto real. ¡Hablemos de código, arquitectura o nuevas oportunidades!

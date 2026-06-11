@@ -10,17 +10,7 @@ Un apasionado **Desarrollar Full Stack** y estudiante de los últimos ciclos de 
 
 ### 💻 Tecnologías y Herramientas
 
-#### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Tech" />
-
-#### **Backend, APIs & Seguridad**
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend Tech" />
-
-#### **Bases de Datos & Almacenamiento**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" alt="Databases" />
-
-#### **Herramientas & Entornos**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Tech" src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend Tech"  src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" alt="Databases" src="https://skillicons.dev/icons?i=git,github,vercel,postman" alt="Tools" />
 
 ---
 

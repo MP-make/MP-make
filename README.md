@@ -30,9 +30,12 @@ Un apasionado **Desarrollar Full Stack** y estudiante de los últimos ciclos de 
 * **Soluciones a Medida (Entre Hilos / ¡Qué Bravazo! / Decoraciones Kawaii):** Plataformas e-commerce full-stack distribuidas que consumen el core de Ventify de manera centralizada, automatizando el control de stock y la gestión de pedidos de múltiples marcas comerciales.
 
 ---
-
 ### 📫 Conéctate conmigo
 
 Apunto a seguir creando software con impacto real. ¡Hablemos de código, arquitectura o nuevas oportunidades!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonpecho) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-pecho-530443385/) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+
+#### **Información de Contacto**
+* 📧 **Correo electrónico:** [marlonpecho264@gmail.com](mailto:marlonpecho264@gmail.com)
+* 💬 **WhatsApp:** [+51 907 326 121](https://wa.me/51907326121)

@@ -1,4 +1,4 @@
-## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=fffff&vCenter=true&width=500&lines=Marlon+Pecho" alt="Typing Effect" /></a>
+## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffffff&vCenter=true&width=500&lines=Marlon+Pecho" alt="Typing Effect" /></a>
 
 ## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Ingeniero+de+Sistemas;Creador+de+Soluciones+SaaS" alt="Typing Effect" /></a>
 

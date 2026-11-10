@@ -1,25 +1,27 @@
 ## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffffff&vCenter=true&width=500&lines=Marlon+Pecho" alt="Typing Effect" /></a>
 
-## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Ingeniero+de+Sistemas;Creador+de+Soluciones+SaaS" alt="Typing Effect" /></a>
+## <a href="https://github.com/MP-make"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&vCenter=true&width=500&lines=Full+Stack+Engineer;SaaS+Architect;Systems+Engineering+Undergrad" alt="Typing Effect" /></a>
 
-Un apasionado desarrollador backend y frontend enfocado en el diseño y construcción de soluciones tecnológicas escalables, eficientes y orientadas a transformar la operación comercial de pequeñas y medianas empresas mediante arquitectura SaaS.
+Estudiante de 10mo ciclo de Ingeniería de Sistemas y Desarrollador Full Stack. Especializado en el diseño y despliegue de soluciones SaaS escalables, integraciones B2B, optimización de bases de datos relacionales y arquitecturas seguras (RBAC, JWT, microservicios y REST APIs).
 
-- 🚀 **Proyecto Principal:** Creador y Core Developer de **Ventify**, un ecosistema SaaS integrado de punto de venta (POS) y e-commerce.
-- 🛠️ **Especialidad Técnica:** Desarrollo MERN stack, arquitectura de APIs seguras (JWT), gestión de entornos cloud y optimización de bases de datos relacionales y no relacionales.
-- 🎯 **Enfoque Actual:** Escalabilidad horizontal, automatización de flujos de datos y seguridad web alineada a buenas prácticas.
+- 🚀 **Proyecto Principal:** Creador y Lead Developer de **Ventify**, plataforma SaaS empresarial y POS cloud para sincronización de inventario en tiempo real, transacciones y roles administrativos.
+- 🛠️ **Especialidad Técnica:** Arquitecturas web con TypeScript/Next.js, microservicios en Java/Spring Boot, procesamiento de datos en Python y persistencia transaccional ACID en PostgreSQL.
+- 🎯 **Enfoque Actual:** Aplicaciones web modernas (Mobile-First / PWA), observabilidad y código limpio (CI/CD, Git workflows, Docker).
 
 ---
 
 ### 💻 Tecnologías y Herramientas
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,php,mongodb,mysql,supabase,git,github,vercel,postman" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,java,spring,python,postgres,supabase,mysql,docker,linux,tailwind,git,github,vercel,postman" alt="My Tech Stack" />
 
 ---
 
-### 🛠️ Ecosistema en Desarrollo Activo
+### 🛠️ Ecosistema y Proyectos Destacados
 
-* **Ventify (Core SaaS):** Arquitectura robusta encargada de la sincronización de inventarios en tiempo real, facturación, POS físico y procesamiento de transacciones.
-* **Soluciones a Medida (Entre Hilos / ¡Qué Bravazo! / Decoraciones Kawaii):** Plataformas e-commerce full-stack distribuidas que consumen el core de Ventify de manera centralizada, automatizando el control de stock y la gestión de pedidos de múltiples marcas comerciales.
+- **[Ventify](https://github.com/MP-make):** Suite SaaS integral de gestión comercial, facturación y POS físico con arquitectura modular, control de sesiones persistentes y auditoría RBAC.
+- **[VOYA]:** Digital travel companion y PWA con enfoque *offline-first* para itinerarios y reservas en destinos turísticos peruanos.
+- **[TechStore Pro]:** Arquitectura full-stack empresarial construida con Spring Boot, Java, Angular y Supabase PostgreSQL con transaccionalidad estricta.
+- **Plataformas Comerciales a Medida:** E-commerce multimarca desplegados en producción (Entre Hilos Crochet, ¡Qué Bravazo!) con pasarelas, control de inventario y consumo centralizado de APIs.
 
 ---
 
